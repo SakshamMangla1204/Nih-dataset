@@ -1,0 +1,19 @@
+# Large dataset
+nih_chestxray14/
+
+# Trained model
+baseline_model.keras
+*.keras
+*.h5
+
+# Results / outputs
+results/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+env/
+.venv/
+venv/
